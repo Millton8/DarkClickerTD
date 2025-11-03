@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1077098799639",
+    "firebase_url": "https://darkclickertd-default-rtdb.europe-west1.firebaseio.com",
+    "project_id": "darkclickertd",
+    "storage_bucket": "darkclickertd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077098799639:android:80a4aacc2012ce465bb252",
+        "android_client_info": {
+          "package_name": "DarkClickerTD.Gamernewb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3tzRVmZ8KESIHec1wRM3HKqAe3RECcWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
