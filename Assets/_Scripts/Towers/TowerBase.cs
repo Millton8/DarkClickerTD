@@ -1,5 +1,8 @@
 using UnityEngine;
 
+/// <summary>
+/// Базовый класс для башен
+/// </summary>
 public abstract class TowerBase : MonoBehaviour
 {
     [Header("Базовые параметры")]
