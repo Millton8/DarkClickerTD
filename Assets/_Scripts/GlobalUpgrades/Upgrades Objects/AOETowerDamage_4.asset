@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22c0a880bfe03134bbf7df85de896eb2, type: 3}
+  m_Name: AOETowerDamage_4
+  m_EditorClassIdentifier: 
+  id: AOETowerDamage_4
+  upgradeName: AOE Damage
+  description: 'Damage Upgrade for AOE Tower.
+
+    Cost 13500'
+  type: 2
+  cost: 13500
+  value: 1.15
+  prerequisites:
+  - {fileID: 11400000, guid: fe083020d5517a248930d9cc775e32d0, type: 2}

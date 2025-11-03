@@ -12,9 +12,15 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# Игнорируем ВСЕ в Assets
 [Aa]ssets/**/*
-![Aa]ssets/**/*.cs
-![Aa]ssets/**/*.meta
+![Aa]ssets/_Scripts/
+![Aa]ssets/_Scripts/**/*
+
+# НО делаем исключения для:
+![Aa]ssets/**/*.cs      # C# скрипты
+![Aa]ssets/**/*.meta    # Мета-файлы Unity
+![Aa]ssets/Editor/*     # Папка Editor (если нужна)
 /Logs
 /Temp
 /UserSettings

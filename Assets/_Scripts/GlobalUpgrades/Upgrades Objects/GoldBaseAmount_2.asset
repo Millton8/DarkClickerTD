@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22c0a880bfe03134bbf7df85de896eb2, type: 3}
+  m_Name: GoldBaseAmount_2
+  m_EditorClassIdentifier: 
+  id: GoldBaseAmount_2
+  upgradeName: Gold Amount
+  description: 'Gold Base Amount
+
+    Cost 1500'
+  type: 0
+  cost: 1500
+  value: 125
+  prerequisites:
+  - {fileID: 11400000, guid: 380b32642785f4e49ac61047cdd122d1, type: 2}
